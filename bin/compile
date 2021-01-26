@@ -1,0 +1,4 @@
+#!/bin/bash
+pdflatex -synctex=1 -interaction=nonstopmode sheet.tex 
+bibtex report.aux
+pdflatex -synctex=1 -interaction=nonstopmode sheet.tex 

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gio open build/sheet.pdf &> /dev/null &
