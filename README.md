@@ -4,14 +4,6 @@ plantilla tipo para asignaciones de economía. pieces/header.tex es donde se mod
 ### Imagenes
 Si las imagenes se encuentran en **/img/** unicamente es necesario colocar el nombre de la imagen.
 
-### Bibliografia
-vaya al archivo referencias.bib y coloque sus fuentes en el formato establecido.
-
-### Windows
-Por el momento no he hecho instaladores para windows así que toca manual.
-
-Descargue [Utilidades](https://github.com/BenyaminGaleano/utilidades.git) y coloque los archivos en la misma carpeta de su proyecto.
-
 ### Linux
 Puede utilizar estos comandos y ahorrarse acciones:
 - **bin/clean** limpia todos los archivos no necesarios en el proyecto.
