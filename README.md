@@ -4,6 +4,18 @@ plantilla tipo para asignaciones de economía. pieces/header.tex es donde se mod
 ### Imagenes
 Si las imagenes se encuentran en **/img/** unicamente es necesario colocar el nombre de la imagen.
 
+
+### Instalación
+Si tiene Python instalado puedo optar por instalar [texpj](https://pypi.org/project/texpj/) y así tener una forma sencilla de administrar
+plantillas, si ya tiene instalado texpj ejecute los siguiente:
+
+```
+texpj install BenyaminGaleano/economia-plantilla NOMBRE_PLANTILLA "cuestionario básico para economía"
+```
+
+Para que funcione se necesita que tenga instalado **git**.
+
+
 ### Linux
 Puede utilizar estos comandos y ahorrarse acciones:
 - **bin/clean** limpia todos los archivos no necesarios en el proyecto.
